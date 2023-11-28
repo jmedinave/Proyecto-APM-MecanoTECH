@@ -3,4 +3,5 @@ Este repositorio tiene como finalidad guardar todos los archivos necesarios para
 Página webMecanoTECH : [https://jira.example.com/issue?query=<num>](https://jhoncale.github.io)https://jhoncale.github.io
 
 
-Video diseño SCADA:[https://drive.google.com](https://drive.google.com/file/d/15XQ9CkUVZPqV4Z8rFH0UKcOJnOrxO1Az/view?usp=drive_link)https://drive.google.com/file/d/15XQ9CkUVZPqV4Z8rFH0UKcOJnOrxO1Az/view?usp=drive_link 
+Video diseño SCADA:
+https://drive.google.com/file/d/1zeuwOxb8-TNtu4CC4Ip9gPgBeYpFAooS/view?usp=drive_link
